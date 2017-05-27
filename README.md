@@ -8,5 +8,5 @@ The L298NHBridge.py module has to be imported into your python program to contro
 ### Raspberry Pi robot
 ![Raspberry Pi robots](https://custom-build-robots.com/wp-content/uploads/2016/04/Robot-with-Mecanum-Wheels-1-768x576.jpg)
 
-The picture belows shows a typical L298N H-Bridge. With the ENA, IN1, IN2, IN3, IN4 and ENB the motor driver board is connected with the Raspberry Pi GPIO pins.
+The picture belows shows a typical L298N H-Bridge. With the ENA, IN1, IN2, IN3, IN4 and ENB pins of the motor driver board which are connected with the Raspberry Pi GPIO pins.
 ![L298N H-Bridge](https://custom-build-robots.com/wp-content/uploads/2015/12/motor_controller_led-768x825.jpg)
