@@ -1,7 +1,7 @@
 # Motor Driver L298N
 This is a python program to control two DC motors with a L298N H-Bridge motor driver.
 ## Module L298NHBridge.py
-The L298NHBridge.py module has to be imported into your python program to control the two DC motors. The L298NHBridge.py offers the functionality to set the directoin and speed of each motor independently. I used a Raspberry Pi and a L298N H-Bridge for my setup. With the RobotControl.py program the speed and direction of the DC motors is set via the keyboard.
+The L298NHBridge.py module has to be imported into your python program to control the two DC motors. The L298NHBridge.py offers the functionality to set the direction and speed of each motor independently. I used a Raspberry Pi and a L298N H-Bridge for my setup. With the RobotControl.py program the speed and direction of the DC motors is set via the keyboard.
 ### Raspberry Pi robot
 ![Raspberry Pi robots](https://custom-build-robots.com/wp-content/uploads/2016/04/Robot-with-Mecanum-Wheels-1-768x576.jpg)
 
